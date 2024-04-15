@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot-tutorial", 
+   "version": "0.0.1", 
+   "description": "Tutorial by ZTRdiamond", 
+   "main": "index.js",
+   "keywords": [ 
+     "nodejs", 
+     "aoi.js", 
+     "dsicord bot", 
+     "ztrdiamond",
+     "tutorial"
+   ], 
+   "author": "ZTRdiamond",
+  "dependencies": {
+    "aoi.js": "^6.1.1",
+    "aoi.parser": "^1.2.5",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  }
+}
